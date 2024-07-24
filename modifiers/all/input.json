@@ -1,0 +1,6 @@
+{
+    "type": "virtualMachine",
+    "subscriptionId": "someguid",
+    "location": "eastus",
+    "tags": ["canary"]
+}

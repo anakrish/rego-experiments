@@ -1,0 +1,2 @@
+#!/bin/bash
+opa eval -d policy.rego -i input.json -d modifier1.rego -d modifier2.rego data.policy.deny
